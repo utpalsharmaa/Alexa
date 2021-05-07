@@ -1,0 +1,16 @@
+#install_speechRecognition
+pip install SpeechRecognition
+
+#install_pyttsx3
+pip install pyttsx3
+
+#install_wikipedia
+pip install wikipedia
+
+#install_ pywhatkit
+pip install pywhatkit
+
+#install_pyjokes
+pip install pyjokes
+
+
